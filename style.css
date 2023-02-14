@@ -22,3 +22,8 @@ td{
     border: blue 1px solid;
     width: 300px;
 }
+
+table{
+    margin-bottom: 20px;
+    width: 100%;
+}
